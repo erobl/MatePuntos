@@ -1,12 +1,12 @@
 var coloreshtml = {
-    r: "#801D15",
-    b: "#1F1959",
+    r: "#811305",
+    b: "#192760",
     w: "#FFFFFF"
 }
 
 var colorescuad = {
-    r: "#AA4139",
-    b: "#393276",
+    r: "#FF1E00",
+    b: "#214597",
     w: "#FFFFFF"
 }
 
