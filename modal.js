@@ -10,6 +10,5 @@ function close_modal() {
 $(document).ready(function() {
     $("#responderPregunta").click(function() {
         preguntar();
-        open_modal();
     });
 })

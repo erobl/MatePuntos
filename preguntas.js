@@ -61,6 +61,8 @@ function preguntar() {
         }
         $("#botonesRespuesta").append(button);
         MathJax.Hub.Queue(["Typeset",MathJax.Hub,"#botonesRespuesta"]);
+
+        open_modal();
     }
 }
 
